@@ -100,6 +100,7 @@
 11. HelloUDP
 
     * **примерные темы:** _сериализация в Java, RMI_
+    * [условия](https://github.com/cannor147/itmo-java/tree/master/src/modules/ru.ifmo.rain.bashunov.bank/tasks.pdf)
 
 12. Статистика текста
 
