@@ -20,7 +20,7 @@
 1. Обход файлов
 
    * **примерные темы:** _ввод и вывод в Java_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.walk/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.walk)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.walk/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.walk)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.walk --mod Walk --module ru.ifmo.rain.bashunov.walk --class RecursiveWalk`
    * запуск тестов для сложной модификации:
@@ -29,7 +29,7 @@
 2. Множество на массиве
 
    * **примерные темы:** _Collections Framework_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.arrayset/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.arrayset)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.arrayset/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.arrayset)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.arrayset --mod SortedSet --module ru.ifmo.rain.bashunov.arrayset --class ArraySet`
    * запуск тестов для сложной модификации:
@@ -38,7 +38,7 @@
 3. Студенты
 
    * **примерные темы:** _лямбда-выражения в Java, Java Stream API_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.student/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.student)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.student/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.student)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.student --mod StudentQuery --module ru.ifmo.rain.bashunov.student --class StudentQueryImpl`
    * запуск тестов для сложной модификации:
@@ -47,7 +47,7 @@
 4. Implementor
 
    * **примерные темы:** _reflection в Java_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.implementor/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.implementor)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.implementor/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.implementor)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.implementor --mod interface --module ru.ifmo.rain.bashunov.implementor --class Implementor`
    * запуск тестов для сложной модификации:
@@ -56,7 +56,7 @@
 5. Jar Implementor
 
    * **примерные темы:** _JAR_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.implementor/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.implementor)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.implementor/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.implementor)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.implementor --mod jar-interface --module ru.ifmo.rain.bashunov.implementor --class Implementor`
    * запуск тестов для сложной модификации:
@@ -65,14 +65,14 @@
 6. Javadoc
 
    * **примерные темы:** _Javadoc_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.implementor/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.implementor)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.implementor/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.implementor)
    * скрипт для создания Javadoc:
      `HomeworkRunner -javadoc --test info.kgeorgiy.java.advanced.implementor --module ru.ifmo.rain.bashunov.implementor --source Implementor`
 
 7. Итеративный параллелизм
 
    * **примерные темы:** _многопоточное программирование на Java_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.concurrent/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.concurrent)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.concurrent/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.concurrent)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.concurrent --mod scalar --module ru.ifmo.rain.bashunov.concurrent --class IterativeParallelism`
    * запуск тестов для сложной модификации:
@@ -81,7 +81,7 @@
 8. Параллельный запуск
 
    * **примерные темы:** _многопоточное программирование на Java_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.mapper/tasks.pdf), [решение](src/modules/ru.ifmo.rain.bashunov.mapper)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.mapper/tasks.md), [решение](src/modules/ru.ifmo.rain.bashunov.mapper)
    * запуск тестов для простой модификации:
      `HomeworkRunner -run --test info.kgeorgiy.java.advanced.mapper --mod scalar --module ru.ifmo.rain.bashunov.concurrent --module ru.ifmo.rain.bashunov.mapper --class ParallelMapperImpl parallelism.MappedParallelism`
    * запуск тестов для сложной модификации:
@@ -90,22 +90,22 @@
 9. Web Crawler
 
    * **примерные темы:** _многопоточное программирование на Java_
-   * [условия](src/modules/ru.ifmo.rain.bashunov.crawler/tasks.pdf), [черновик решения](src/modules/ru.ifmo.rain.bashunov.crawler)
+   * [условия](src/modules/ru.ifmo.rain.bashunov.crawler/tasks.md), [черновик решения](src/modules/ru.ifmo.rain.bashunov.crawler)
 
 10. HelloUDP
 
     * **примерные темы:** _работа с сетью на Java_
-    * [условия](src/modules/ru.ifmo.rain.bashunov.hello/tasks.pdf), [черновик решения](src/modules/ru.ifmo.rain.bashunov.hello)
+    * [условия](src/modules/ru.ifmo.rain.bashunov.hello/tasks.md), [черновик решения](src/modules/ru.ifmo.rain.bashunov.hello)
 
 11. HelloUDP
 
     * **примерные темы:** _сериализация в Java, RMI_
-    * [условия](src/modules/ru.ifmo.rain.bashunov.bank/tasks.pdf)
+    * [условия](src/modules/ru.ifmo.rain.bashunov.bank/tasks.md)
 
 12. Статистика текста
 
     * **примерные темы:** _интернационализация программ на Java_
-    * [условия](src/modules/ru.ifmo.rain.bashunov.i18n/tasks.pdf)
+    * [условия](src/modules/ru.ifmo.rain.bashunov.i18n/tasks.md)
 
 
 # Полезные ссылки
